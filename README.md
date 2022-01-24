@@ -5,7 +5,6 @@
 **Polygons Games Studio** is a indie game dev studio from Poland. Currently we are working on racing game titled **Speed Legends**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolygonsGamesStudio&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolygonsGamesStudio&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience
 - 🚗 C#
