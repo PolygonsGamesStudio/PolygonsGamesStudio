@@ -2,6 +2,8 @@
 
 **Polygons Games Studio** is a indie game dev studio from Poland. Currently we are developing racing game titled **Speed Legends**
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/PolishCoder)  
+
 <!--
 **PolygonsGamesStudio/PolygonsGamesStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
